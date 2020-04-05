@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d958ae23-44b4-4364-9d15-e3776cfc9ddc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="293" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a74PATpPHCisy9InDUOV1UKsac" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="gr.nothingness.TDDMoney" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="gr.nothingness.TDDMoney" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TDDMoney" />
+      <option name="PACKAGE_NAME" value="gr.nothingness.TDDMoney" />
+      <option name="MAIN_CLASS_NAME" value="gr.nothingness.TDDMoney.MoneyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MoneyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d958ae23-44b4-4364-9d15-e3776cfc9ddc" name="Default Changelist" comment="" />
+      <created>1586073271179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586073271179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="358" key="#Project_Structure" timestamp="1586073291888">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="358" key="#Project_Structure/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586073291888" />
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586073367718">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586073367718" />
+    <state x="92" y="92" width="2376" height="1216" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586074183068">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586074183068" />
+    <state x="1076" y="559" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586073908921">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1076" y="559" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586073908921" />
+    <state width="2517" height="398" key="GridCell.Tab.0.bottom" timestamp="1586090043622">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586090043622" />
+    <state width="2517" height="398" key="GridCell.Tab.0.center" timestamp="1586090043622">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586090043622" />
+    <state width="2517" height="398" key="GridCell.Tab.0.left" timestamp="1586090043622">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586090043622" />
+    <state width="2517" height="398" key="GridCell.Tab.0.right" timestamp="1586090043622">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586090043622" />
+    <state x="810" y="355" key="Maven.ArtifactSearchDialog" timestamp="1586073601120">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="810" y="355" key="Maven.ArtifactSearchDialog/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586073601120" />
+    <state x="614" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1586087664052">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="614" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586087664052" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TDDMoney$MoneyTest.ic" NAME="MoneyTest Coverage Results" MODIFIED="1586088127011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
