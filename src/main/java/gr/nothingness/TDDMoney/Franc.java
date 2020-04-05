@@ -1,13 +1,13 @@
 package gr.nothingness.TDDMoney;
 
-public class Dollar extends Money {
+public class Franc extends Money {
 
-  public Dollar(int amount) {
+  public Franc(int amount) {
     this.amount = amount;
   }
 
   public Money times(int multiplier) {
-    return new Dollar(amount * multiplier);
+    return new Franc(amount * multiplier);
   }
 
 }

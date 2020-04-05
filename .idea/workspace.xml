@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d958ae23-44b4-4364-9d15-e3776cfc9ddc" name="Default Changelist" comment="" />
+    <list default="true" id="d958ae23-44b4-4364-9d15-e3776cfc9ddc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gr/nothingness/TDDMoney/Dollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gr/nothingness/TDDMoney/Dollar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gr/nothingness/TDDMoney/MoneyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gr/nothingness/TDDMoney/MoneyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gr/nothingness/TDDMoney/Dollar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gr/nothingness/TDDMoney/Dollar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/gr/nothingness/TDDMoney/MoneyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/gr/nothingness/TDDMoney/MoneyTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="293" />
+    <option name="myElementSize" value="524" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,6 +22,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -25,6 +34,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1a74PATpPHCisy9InDUOV1UKsac" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +47,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -86,36 +99,52 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="92" y="92" width="2376" height="1216" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586074183068" />
+    <state x="989" y="452" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1586093211007">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="989" y="452" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586093211007" />
     <state x="1076" y="559" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586073908921">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1076" y="559" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586073908921" />
-    <state width="2517" height="398" key="GridCell.Tab.0.bottom" timestamp="1586090043622">
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1586090887985">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586090043622" />
-    <state width="2517" height="398" key="GridCell.Tab.0.center" timestamp="1586090043622">
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586090887984" />
+    <state width="2517" height="398" key="GridCell.Tab.0.bottom" timestamp="1586093064559">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586090043622" />
-    <state width="2517" height="398" key="GridCell.Tab.0.left" timestamp="1586090043622">
+    <state width="2517" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586093064559" />
+    <state width="2517" height="398" key="GridCell.Tab.0.center" timestamp="1586093064559">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586090043622" />
-    <state width="2517" height="398" key="GridCell.Tab.0.right" timestamp="1586090043622">
+    <state width="2517" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586093064559" />
+    <state width="2517" height="398" key="GridCell.Tab.0.left" timestamp="1586093064559">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586090043622" />
+    <state width="2517" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586093064559" />
+    <state width="2517" height="398" key="GridCell.Tab.0.right" timestamp="1586093064559">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586093064559" />
     <state x="810" y="355" key="Maven.ArtifactSearchDialog" timestamp="1586073601120">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="810" y="355" key="Maven.ArtifactSearchDialog/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586073601120" />
-    <state x="614" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1586087664052">
+    <state x="781" y="342" key="SettingsEditor" timestamp="1586090892050">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="614" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586087664052" />
+    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586090892050" />
+    <state x="614" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1586090609222">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="614" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586090609222" />
+    <state x="936" y="330" key="run.anything.popup" timestamp="1586092420667">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586092420667" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TDDMoney$MoneyTest.ic" NAME="MoneyTest Coverage Results" MODIFIED="1586088127011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TDDMoney$MoneyTest.ic" NAME="MoneyTest Coverage Results" MODIFIED="1586092981178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
