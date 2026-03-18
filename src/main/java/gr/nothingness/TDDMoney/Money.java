@@ -1,4 +1,4 @@
-package gr.nothingness.TDDMoney;
+package com.openbet.TDDMoney;
 
 public class Money {
 
