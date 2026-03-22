@@ -51,17 +51,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="gr.nothingness.TDDMoney" />
+      <recent name="com.openbet.TDDMoney" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="gr.nothingness.TDDMoney" />
+      <recent name="com.openbet.TDDMoney" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TDDMoney" />
-      <option name="PACKAGE_NAME" value="gr.nothingness.TDDMoney" />
-      <option name="MAIN_CLASS_NAME" value="gr.nothingness.TDDMoney.MoneyTest" />
+      <option name="PACKAGE_NAME" value="com.openbet.TDDMoney" />
+      <option name="MAIN_CLASS_NAME" value="com.openbet.TDDMoney.MoneyTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
