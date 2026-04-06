@@ -1,4 +1,4 @@
-package gr.nothingness.TDDMoney;
+package org.codeberg.TDDMoney;
 
 public class Dollar extends Money {
 
