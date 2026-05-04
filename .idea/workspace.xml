@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d958ae23-44b4-4364-9d15-e3776cfc9ddc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gr/nothingness/TDDMoney/Dollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gr/nothingness/TDDMoney/Dollar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gr/nothingness/TDDMoney/MoneyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gr/nothingness/TDDMoney/MoneyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/org.codeberg/gr/nothingness/TDDMoney/Dollar.org.codeberg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/org.codeberg/gr/nothingness/TDDMoney/Dollar.org.codeberg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/org.codeberg/gr/nothingness/TDDMoney/MoneyTest.org.codeberg" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/org.codeberg/gr/nothingness/TDDMoney/MoneyTest.org.codeberg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/gr/nothingness/TDDMoney/Dollar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gr/nothingness/TDDMoney/Dollar.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/gr/nothingness/TDDMoney/MoneyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/gr/nothingness/TDDMoney/MoneyTest.class" afterDir="false" />
     </list>
