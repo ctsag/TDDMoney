@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d958ae23-44b4-4364-9d15-e3776cfc9ddc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gr/nothingness/TDDMoney/Dollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gr/nothingness/TDDMoney/Dollar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/gr/nothingness/TDDMoney/MoneyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gr/nothingness/TDDMoney/MoneyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gr/nothingness/TDDMoney/Dollar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gr/nothingness/TDDMoney/Dollar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/gr/nothingness/TDDMoney/MoneyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/gr/nothingness/TDDMoney/MoneyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gr/nothingness/ctsag_/Dollar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gr/nothingness/ctsag_/Dollar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gr/nothingness/ctsag_/MoneyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gr/nothingness/ctsag_/MoneyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/gr/nothingness/ctsag_/Dollar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/gr/nothingness/ctsag_/Dollar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/gr/nothingness/ctsag_/MoneyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/gr/nothingness/ctsag_/MoneyTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,17 +51,17 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="gr.nothingness.TDDMoney" />
+      <recent name="gr.nothingness.ctsag_" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="gr.nothingness.TDDMoney" />
+      <recent name="gr.nothingness.ctsag_" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TDDMoney" />
-      <option name="PACKAGE_NAME" value="gr.nothingness.TDDMoney" />
-      <option name="MAIN_CLASS_NAME" value="gr.nothingness.TDDMoney.MoneyTest" />
+      <module name="ctsag_" />
+      <option name="PACKAGE_NAME" value="gr.nothingness.ctsag_" />
+      <option name="MAIN_CLASS_NAME" value="gr.nothingness.ctsag_.MoneyTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,6 +145,6 @@
     <state x="936" y="330" key="run.anything.popup/0.0.2560.1400/2560.0.2560.1440@0.0.2560.1400" timestamp="1586092420667" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TDDMoney$MoneyTest.ic" NAME="MoneyTest Coverage Results" MODIFIED="1586092981178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/ctsag_$MoneyTest.ic" NAME="MoneyTest Coverage Results" MODIFIED="1586092981178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

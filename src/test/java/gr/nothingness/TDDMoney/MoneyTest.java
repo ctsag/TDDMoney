@@ -1,4 +1,4 @@
-package gr.nothingness.TDDMoney;
+package gr.nothingness.ctsag_;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;

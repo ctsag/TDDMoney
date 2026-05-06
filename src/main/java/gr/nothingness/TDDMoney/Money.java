@@ -1,4 +1,4 @@
-package gr.nothingness.TDDMoney;
+package gr.nothingness.ctsag_;
 
 public class Money {
 
