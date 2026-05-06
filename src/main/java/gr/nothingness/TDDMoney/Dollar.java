@@ -1,4 +1,4 @@
-package gr.nothingness.TDDMoney;
+package gr.nothingness.ctsag_TDDMoney;
 
 public class Dollar extends Money {
 
