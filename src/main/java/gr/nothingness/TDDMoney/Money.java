@@ -1,4 +1,4 @@
-package gr.nothingness.TDDMoney;
+package org.codeberg.ctsag_TDDMoney;
 
 public class Money {
 
